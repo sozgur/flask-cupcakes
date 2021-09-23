@@ -1,0 +1,10 @@
+.cupcake-list {
+    display: grid;
+    column-gap: 20px;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.cupcake img {
+    width: 100%;
+    height: auto;
+}
